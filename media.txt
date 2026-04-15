@@ -1,0 +1,908 @@
+B399,The Clue in the Jewel Box,Carolyn Keene,BOOK
+B397,The Push,Ashley Audrain,BOOK
+B396,The Desert Star,Michael Connelly,BOOK
+M398,La Dolce Vita,Federico Fellini,MOVIE
+M397,Blade Runner,Ridley Scott,MOVIE
+B395,The Affair,Lee Child,BOOK
+M396,Amarcord,Federico Fellini,MOVIE
+B394,By Any Other Name,Jodi Picoult,BOOK
+M393,Alien: Romulus,Fede Álvarez,MOVIE
+J397,Structural Safety,Elsevier,JOURNAL
+M392,The Killing,Stanley Kubrick,MOVIE
+M391,The Sound of Music,Robert Wise,MOVIE
+J394,Mechanics of Materials,Elsevier,JOURNAL
+J403,Polymer Degradation and Stability,Elsevier,JOURNAL
+J393,Journal of Parallel and Distributed Computing,Elsevier,JOURNAL
+B389,The 24th Hour,James Patterson,BOOK
+J391,Biotechnology Advances,Elsevier,JOURNAL
+J390,Trends in Genetics,Elsevier,JOURNAL
+M387,Ran,Akira Kurosawa,MOVIE
+J387,Geophysical Research Letters,AGU,JOURNAL
+B386,Ship Breaker,Paolo Bacigalupi,BOOK
+B385,The Mystery at Lilac Inn,Carolyn Keene,BOOK
+J386,Wear,Elsevier,JOURNAL
+B383,The Lost Story,Brandon Sanderson,BOOK
+M381,The Piano Lesson,Malcolm Washington,MOVIE
+M380,The 49th Parallel,Michael Powell,MOVIE
+J383,Tribology International,Elsevier,JOURNAL
+J382,Colloids and Surfaces B,Elsevier,JOURNAL
+M378,City Lights,Charlie Chaplin,MOVIE
+M377,5 Centimeters per Second,Makoto Shinkai,MOVIE
+J380,Artificial Intelligence,Elsevier,JOURNAL
+M376,Modern Times,Charlie Chaplin,MOVIE
+J379,Materials Research Bulletin,Elsevier,JOURNAL
+B378,The Secret of the Old Clock,Carolyn Keene,BOOK
+J377,Chaos, Solitons & Fractals,JOURNAL
+J376,Materials Chemistry and Physics,Elsevier,JOURNAL
+J375,Diamond and Related Materials,Elsevier,JOURNAL
+J402,Computers & Fluids,Elsevier,JOURNAL
+B376,The Teacher,Freida McFadden,BOOK
+B375,The Message,Ta-Nehisi Coates,BOOK
+B374,Karla's Choice,Nick Harkaway,BOOK
+M373,Some Like It Hot,Billy Wilder,MOVIE
+J373,Applied Soft Computing,Elsevier,JOURNAL
+B373,In Too Deep,Lee Child,BOOK
+M389,Heat,Michael Mann,MOVIE
+M372,The Seven Samurai,Akira Kurosawa,MOVIE
+B393,Funny Story,Emily Henry,BOOK
+B381,Die Trying,Lee Child,BOOK
+J371,Vacuum,Elsevier,JOURNAL
+J385,Solid State Ionics,Elsevier,JOURNAL
+B372,The Great When,Alan Moore,BOOK
+M371,Leon: The Professional,Luc Besson,MOVIE
+B384,The Windup Girl,Paolo Bacigalupi,BOOK
+J369,Physics Letters A,Elsevier,JOURNAL
+M369,Conclave,Edward Berger,MOVIE
+M368,The Maltese Falcon,John Huston,MOVIE
+M367,The Garden of Words,Makoto Shinkai,MOVIE
+B370,The Long Call,Ann Cleeves,BOOK
+J367,Health Policy and Technology,Elsevier,JOURNAL
+J366,Energy Strategy Reviews,Elsevier,JOURNAL
+M364,The Bridge on the River Kwai,David Lean,MOVIE
+J364,Results in Physics,Elsevier,JOURNAL
+J363,Flow Measurement and Instrumentation,Elsevier,JOURNAL
+B369,Listen for the Lie,Amy Tintera,BOOK
+B368,Lazarus,Lars Kepler,BOOK
+M370,Twisters,Lee Isaac Chung,MOVIE
+J362,Biomaterials,Elsevier,JOURNAL
+J360,Optics and Lasers in Engineering,Elsevier,JOURNAL
+M358,Arrival,Denis Villeneuve,MOVIE
+M356,Sunset Boulevard,Billy Wilder,MOVIE
+M399,The 400 Blows,François Truffaut,MOVIE
+M355,Dr. Strangelove,Stanley Kubrick,MOVIE
+B362,The Midnight Line,Lee Child,BOOK
+B361,The 13th Amendment,Tami Hoag,BOOK
+J359,Neurocomputing,Elsevier,JOURNAL
+M354,Rear Window,Alfred Hitchcock,MOVIE
+B360,The Spy,Paulo Coelho,BOOK
+J356,Journal of Systems and Software,Elsevier,JOURNAL
+B358,Blue Moon,Lee Child,BOOK
+B357,The God of the Woods,Liz Moore,BOOK
+J353,Solid State Sciences,Elsevier,JOURNAL
+M351,A Silent Voice,Naoko Yamada,MOVIE
+J352,Trends in Plant Science,Elsevier,JOURNAL
+B356,Eruption,Michael Crichton,BOOK
+B355,Past Tense,Lee Child,BOOK
+J347,Computer Networks,Elsevier,JOURNAL
+J344,Future Generation Computer Systems,Elsevier,JOURNAL
+M346,The Banshees of Inisherin,Martin McDonagh,MOVIE
+B352,The Fifth Witness,Michael Connelly,BOOK
+J343,Signal Processing,Elsevier,JOURNAL
+M343,The Tale of Despereaux,Sam Fell,MOVIE
+B351,Sleep Tight,Linwood Barclay,BOOK
+B350,The Paradise Problem,Christina Lauren,BOOK
+J358,Ad Hoc Networks,Elsevier,JOURNAL
+B349,Worth Dying For,Lee Child,BOOK
+M340,I Know Where I'm Going!,Michael Powell,MOVIE
+M339,Rocky,John G. Avildsen,MOVIE
+B347,The 24th Hour,James Patterson,BOOK
+B366,Counting Miracles,Nicholas Sparks,BOOK
+J341,Mechanical Systems and Signal Processing,Elsevier,JOURNAL
+B345,What I Ate in One Year,Stanley Tucci,BOOK
+J338,Ocean Engineering,Elsevier,JOURNAL
+M338,The Order,Justin Kurzel,MOVIE
+M353,A Real Pain,Jesse Eisenberg,MOVIE
+B343,The Water Knife,Paolo Bacigalupi,BOOK
+B342,Killing Floor,Lee Child,BOOK
+M342,Lolita,Stanley Kubrick,MOVIE
+B341,Nothing to Lose,Lee Child,BOOK
+M336,Presence,Steven Soderbergh,MOVIE
+B340,You Are Here,David Nicholls,BOOK
+B339,The Familiar,Leigh Bardugo,BOOK
+M335,Civil War,Alex Garland,MOVIE
+M334,Predator,John McTiernan,MOVIE
+M333,Aliens,James Cameron,MOVIE
+M362,Children Who Chase Lost Voices,Makoto Shinkai,MOVIE
+J334,Knowledge-Based Systems,Elsevier,JOURNAL
+J333,Pattern Recognition,Elsevier,JOURNAL
+B338,Blue Moon,Lee Child,BOOK
+M332,The Terminator,James Cameron,MOVIE
+J332,One Earth,Elsevier,JOURNAL
+M360,Ran,Akira Kurosawa,MOVIE
+J331,Control Engineering Practice,Elsevier,JOURNAL
+B337,Cross Out,James Patterson,BOOK
+M330,Indiana Jones and the Raiders of the Lost Ark,Steven Spielberg,MOVIE
+J330,Tribology International,Elsevier,JOURNAL
+M329,Jurassic Park,Steven Spielberg,MOVIE
+J329,Reactive and Functional Polymers,Elsevier,JOURNAL
+M328,The Great Dictator,Charlie Chaplin,MOVIE
+M326,The Secret World of Arrietty,Hiromasa Yonebayashi,MOVIE
+J328,Tunnelling and Underground Space Technology,Elsevier,JOURNAL
+J374,Biomaterials,Elsevier,JOURNAL
+M324,Platoon,Oliver Stone,MOVIE
+B402,The Pilgrimage,Paulo Coelho,BOOK
+M323,The Pirates! In an Adventure with Scientists!,Peter Lord,MOVIE
+J327,Thin Solid Films,Elsevier,JOURNAL
+B333,Wildfire,Hannah Grace,BOOK
+M321,Fargo,Joel Coen,MOVIE
+J326,Energy,Elsevier,JOURNAL
+B332,Prophet Song,Paul Lynch,BOOK
+M319,The Usual Suspects,Bryan Singer,MOVIE
+M318,Killers of the Flower Moon,Martin Scorsese,MOVIE
+J325,Composite Structures,Elsevier,JOURNAL
+B331,Iron Flame,Rebecca Yarros,BOOK
+B354,The Black Ice,Michael Connelly,BOOK
+J323,Materials Letters,Elsevier,JOURNAL
+B330,The Sign of the Twisted Candles,Carolyn Keene,BOOK
+J350,Intermetallics,Elsevier,JOURNAL
+M316,Sin City,Frank Miller,MOVIE
+J365,Building and Environment,Elsevier,JOURNAL
+J319,Journal of Clinical Investigation,ASCI,JOURNAL
+B327,Pump Six and Other Stories,Paolo Bacigalupi,BOOK
+B326,Small Things Like These,Claire Keegan,BOOK
+M363,The Whale,Darren Aronofsky,MOVIE
+J318,Gene,Elsevier,JOURNAL
+B325,Chasing the Dime,Michael Connelly,BOOK
+M312,A Matter of Life and Death,Michael Powell,MOVIE
+B365,Passions in Death,J.D. Robb,BOOK
+M347,Full Metal Jacket,Stanley Kubrick,MOVIE
+B321,Foster,Claire Keegan,BOOK
+J316,Blood,ASH,JOURNAL
+M309,Your Name,Makoto Shinkai,MOVIE
+M374,Spartacus,Stanley Kubrick,MOVIE
+J314,Chemical Science,RSC,JOURNAL
+B319,The Golden Enclaves,Naomi Novik,BOOK
+J313,Computers and Electrical Engineering,Elsevier,JOURNAL
+B318,The Armor of Light,Ken Follett,BOOK
+B388,Swan Song,Elin Hilderbrand,BOOK
+J312,Thin-Walled Structures,Elsevier,JOURNAL
+J311,Modern Pathology,Springer Nature,JOURNAL
+B316,I'm Glad My Mom Died,Jennette McCurdy,BOOK
+B315,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,BOOK
+M306,Barry Lyndon,Stanley Kubrick,MOVIE
+M384,The Wizard of Oz,Victor Fleming,MOVIE
+M304,Citizen Kane,Orson Welles,MOVIE
+B313,Demon Copperhead,Barbara Kingsolver,BOOK
+J307,Heart,BMJ,JOURNAL
+J306,Desalination,Elsevier,JOURNAL
+J305,Construction and Building Materials,Elsevier,JOURNAL
+J304,Matter,Elsevier,JOURNAL
+M303,Ikiru,Akira Kurosawa,MOVIE
+B398,The Bullet That Missed,Richard Osman,BOOK
+B311,The Closers,Michael Connelly,BOOK
+J335,Physical Review Letters,APS,JOURNAL
+M301,The Green Mile,Frank Darabont,MOVIE
+B310,The Bullet That Missed,Richard Osman,BOOK
+J340,Neural Networks,Elsevier,JOURNAL
+B320,Daisy Darker,Alice Feeney,BOOK
+M300,The Wolf of Wall Street,Martin Scorsese,MOVIE
+M299,Ghost in the Shell,Mamoru Oshii,MOVIE
+B390,Think Twice,Harlan Coben,BOOK
+M298,Snatch,Guy Ritchie,MOVIE
+M296,A Clockwork Orange,Stanley Kubrick,MOVIE
+M311,Prisoners,Denis Villeneuve,MOVIE
+M295,Princess Mononoke,Hayao Miyazaki,MOVIE
+J320,Diabetes,ADA,JOURNAL
+J301,Radiology,RSNA,JOURNAL
+B306,No Plan B,Lee Child,BOOK
+M292,The Thing,John Carpenter,MOVIE
+B305,The Housemaid,Freida McFadden,BOOK
+M290,Fury,Fritz Lang,MOVIE
+M289,The Red Turtle,Michael Dudok de Wit,MOVIE
+M287,Schindler's List,Steven Spielberg,MOVIE
+J297,Image and Vision Computing,Elsevier,JOURNAL
+B304,Where the Crawdads Sing,Delia Owens,BOOK
+B303,Shadow of Doubt,Brad Thor,BOOK
+M286,Kagemusha,Akira Kurosawa,MOVIE
+M285,Kill Bill: Vol. 1,Quentin Tarantino,MOVIE
+M284,The Wind Rises,Hayao Miyazaki,MOVIE
+M288,The Outrun,Nora Fingscheidt,MOVIE
+M283,The Dark Knight,Christopher Nolan,MOVIE
+M282,Vivre Sa Vie,Jean-Luc Godard,MOVIE
+J293,Nature Medicine,Springer Nature,JOURNAL
+J292,Infection and Immunity,ASM,JOURNAL
+J291,One Earth,Elsevier,JOURNAL
+M281,Glass Onion,Rian Johnson,MOVIE
+B302,The Mirror and the Road,Aparna Sen,BOOK
+M280,The Batman,Matt Reeves,MOVIE
+B363,A Discovery of Witches,Deborah Harkness,BOOK
+M279,Belle,Mamoru Hosoda,MOVIE
+B344,The Murder Inn,James Patterson,BOOK
+J289,Chem,Elsevier,JOURNAL
+J286,Plant Science,Elsevier,JOURNAL
+M278,Gran Torino,Clint Eastwood,MOVIE
+J324,Trends in Cancer,Elsevier,JOURNAL
+B300,The Paris Apartment,Lucy Foley,BOOK
+B299,Book Lovers,Emily Henry,BOOK
+J285,Trends in Pharmacological Sciences,Elsevier,JOURNAL
+M276,Singin' in the Rain,Stanley Donen,MOVIE
+J284,Chemical Engineering Journal,Elsevier,JOURNAL
+B317,The Girl Who Survived,Lisa Jackson,BOOK
+J283,Current Biology,Elsevier,JOURNAL
+B298,Intermezzo,Sally Rooney,BOOK
+B297,The Song of Achilles,Madeline Miller,BOOK
+B296,None of This Is True,Lisa Jewell,BOOK
+M272,Black Narcissus,Michael Powell,MOVIE
+B295,The It Girl,Ruth Ware,BOOK
+B294,The Midnight Library,Matt Haig,BOOK
+B293,Hard to Kill,James Patterson,BOOK
+B292,Identity,Nora Roberts,BOOK
+M271,Inside Out 2,Kelsey Mann,MOVIE
+J281,Applied Surface Science,Elsevier,JOURNAL
+B291,All the Broken Places,John Boyne,BOOK
+B186,The Fourth Wing,Rebecca Yarros,BOOK
+M344,Paprika,Satoshi Kon,MOVIE
+B312,The Last One at the Party,Bethany Clift,BOOK
+M104,Shaun the Sheep Movie,Richard Starzak,MOVIE
+M268,Saving Private Ryan,Steven Spielberg,MOVIE
+M176,Dune: Part Two,Denis Villeneuve,MOVIE
+B185,The 23rd Midnight,James Patterson,BOOK
+B328,Night School,Lee Child,BOOK
+M136,The Passion of Joan of Arc,Carl Theodor Dreyer,MOVIE
+J184,Neuroscience and Biobehavioral Reviews,Elsevier,JOURNAL
+J180,Optical Materials,Elsevier,JOURNAL
+B182,Tom Lake,Ann Patchett,BOOK
+M172,Mary and the Witch's Flower,Hiromasa Yonebayashi,MOVIE
+B188,House of Flame and Shadow,Sarah J. Maas,BOOK
+B180,The Midnight Feast,Lucy Foley,BOOK
+M162,Breathless,Jean-Luc Godard,MOVIE
+J384,Energy Conversion and Management,Elsevier,JOURNAL
+M171,Heat,Michael Mann,MOVIE
+M170,Brief Encounter,David Lean,MOVIE
+B155,Buried Secrets,Karin Slaughter,BOOK
+M349,Furiosa: A Mad Max Saga,George Miller,MOVIE
+J219,Finite Elements in Analysis and Design,Elsevier,JOURNAL
+B230,The Concrete Blonde,Michael Connelly,BOOK
+M166,Casino,Martin Scorsese,MOVIE
+M165,Seven Samurai,Akira Kurosawa,MOVIE
+B175,Resurrection Walk,Michael Connelly,BOOK
+J400,Experimental Parasitology,Elsevier,JOURNAL
+J299,Sensors and Actuators,Elsevier,JOURNAL
+M159,The Mirror,Andrei Tarkovsky,MOVIE
+B201,The Gods of Guilt,Michael Connelly,BOOK
+M161,Queer,Luca Guadagnino,MOVIE
+J185,Nanoscale,RSC,JOURNAL
+J123,Neuron,Elsevier,JOURNAL
+B181,A Wanted Man,Lee Child,BOOK
+B387,Personal,Lee Child,BOOK
+J372,International Journal of Educational Research,Elsevier,JOURNAL
+J106,Journal of Food Engineering,Elsevier,JOURNAL
+M131,Hard Truths,Mike Leigh,MOVIE
+B190,The Wager,David Grann,BOOK
+J179,Food Chemistry,Elsevier,JOURNAL
+B334,The Women,Kristin Hannah,BOOK
+J152,Cell Systems,Elsevier,JOURNAL
+J167,Colloids and Surfaces A,Elsevier,JOURNAL
+B212,Babel,R.F. Kuang,BOOK
+B307,Happy Place,Emily Henry,BOOK
+B228,Romantic Comedy,Curtis Sittenfeld,BOOK
+B162,Gone Tomorrow,Lee Child,BOOK
+J166,Trends in Parasitology,Elsevier,JOURNAL
+M154,Only Yesterday,Isao Takahata,MOVIE
+M153,Tokyo Story,Yasujirō Ozu,MOVIE
+M152,Trap,M. Night Shyamalan,MOVIE
+M256,Reservoir Dogs,Quentin Tarantino,MOVIE
+J163,Dyes and Pigments,Elsevier,JOURNAL
+J162,Journal of Molecular Biology,Elsevier,JOURNAL
+M169,The Apartment,Billy Wilder,MOVIE
+B203,Sunrise on the Reaping,Suzanne Collins,BOOK
+J183,Automation in Construction,Elsevier,JOURNAL
+J158,Genomics,Elsevier,JOURNAL
+M177,The Menu,Mark Mylod,MOVIE
+M216,Society of the Snow,J.A. Bayona,MOVIE
+M150,Anora,Sean Baker,MOVIE
+B123,The Last Coyote,Michael Connelly,BOOK
+J157,Molecular Plant,Elsevier,JOURNAL
+J147,Solid State Communications,Elsevier,JOURNAL
+J381,Journal of Cleaner Production,Elsevier,JOURNAL
+J160,Systems & Control Letters,Elsevier,JOURNAL
+B161,The Lies I Tell,Julie Clark,BOOK
+B153,The Clue of the Broken Locket,Carolyn Keene,BOOK
+J150,Solar Energy Materials and Solar Cells,Elsevier,JOURNAL
+J172,Trends in Ecology & Evolution,Elsevier,JOURNAL
+B275,Dead Mountain,Douglas Preston,BOOK
+B152,The Way to Love,Anthony de Mello,BOOK
+J156,Current Opinion in Chemical Biology,Elsevier,JOURNAL
+J155,Developmental Cell,Elsevier,JOURNAL
+B166,The Valkyries,Paulo Coelho,BOOK
+J190,Brain,OUP,JOURNAL
+J241,Immunity,Elsevier,JOURNAL
+M359,Casablanca,Michael Curtiz,MOVIE
+B151,The Grey Wolf,Louise Penny,BOOK
+J282,Journal of Bacteriology,ASM,JOURNAL
+B169,Brida,Paulo Coelho,BOOK
+M145,Chicken Run,Nick Park,MOVIE
+J346,Biochimica et Biophysica Acta,Elsevier,JOURNAL
+J154,Methods,Elsevier,JOURNAL
+B164,The Drop,Michael Connelly,BOOK
+B147,The Enemy,Lee Child,BOOK
+J290,Astronomy & Astrophysics,EDP Sciences,JOURNAL
+J153,Aguirre, the Wrath of God,JOURNAL
+B150,The Heron's Cry,Ann Cleeves,BOOK
+M144,Fitzcarraldo,Werner Herzog,MOVIE
+M143,The Brutalist,Brady Corbet,MOVIE
+J378,Progress in Materials Science,Elsevier,JOURNAL
+J171,Trends in Cell Biology,Elsevier,JOURNAL
+M357,Weathering with You,Makoto Shinkai,MOVIE
+J294,Trends in Biotechnology,Elsevier,JOURNAL
+J170,Free Radical Biology and Medicine,Elsevier,JOURNAL
+M217,The Northman,Robert Eggers,MOVIE
+J151,Materials Chemistry and Physics,Elsevier,JOURNAL
+J176,Journal of Virology,ASM,JOURNAL
+B377,The Women of Troy,Pat Barker,BOOK
+M263,Everything Everywhere All At Once,Daniels,MOVIE
+B148,Hippie,Paulo Coelho,BOOK
+B262,Someone Else's Shoes,Jojo Moyes,BOOK
+B146,The Archer,Paulo Coelho,BOOK
+B211,Dirty Thirty,Janet Evanovich,BOOK
+M386,The Boy and the Beast,Mamoru Hosoda,MOVIE
+J149,Joule,Elsevier,JOURNAL
+B130,The Black Box,Michael Connelly,BOOK
+M137,Metropolis,Fritz Lang,MOVIE
+B144,The Night Fire,Michael Connelly,BOOK
+B392,Angels Flight,Michael Connelly,BOOK
+M190,The Hateful Eight,Quentin Tarantino,MOVIE
+J216,Safety Science,Elsevier,JOURNAL
+B156,The Password to Larkspur Lane,Carolyn Keene,BOOK
+B189,Identity,Nora Roberts,BOOK
+B158,The Winner Stands Alone,Paulo Coelho,BOOK
+M260,Emilia Pérez,Jacques Audiard,MOVIE
+M114,The Boxtrolls,Graham Annable,MOVIE
+B184,Beyond the Story,BTS,BOOK
+J249,Polymer Degradation and Stability,Elsevier,JOURNAL
+B120,Past Tense,Lee Child,BOOK
+B111,Make Me,Lee Child,BOOK
+B119,The Clue of the Black Keys,Carolyn Keene,BOOK
+B134,The Mystery of the Brass Bound Trunk,Carolyn Keene,BOOK
+J226,Computational Geometry,Elsevier,JOURNAL
+J117,Biotechnology Advances,Elsevier,JOURNAL
+B157,The Hotel,Daisy Goodwin,BOOK
+M151,Saturn Can Wait,Wes Anderson,MOVIE
+B159,The Housemaid's Secret,Freida McFadden,BOOK
+M220,Missing Link,Chris Butler,MOVIE
+B115,Night School,Lee Child,BOOK
+M113,The End,Joshua Oppenheimer,MOVIE
+M365,A Woman Under the Influence,John Cassavetes,MOVIE
+M156,The Tale of the Princess Kaguya,Isao Takahata,MOVIE
+M245,Akira,Katsuhiro Otomo,MOVIE
+M125,The Third Man,Carol Reed,MOVIE
+B367,The Life Impossible,Matt Haig,BOOK
+M270,High Noon,Fred Zinnemann,MOVIE
+J115,Physica B: Condensed Matter,Elsevier,JOURNAL
+J247,Synthetic Metals,Elsevier,JOURNAL
+B359,The Shadow of Memory,Connie Berry,BOOK
+J113,Joule,Elsevier,JOURNAL
+J396,Current Opinion in Neurobiology,Elsevier,JOURNAL
+J345,Microprocessors and Microsystems,Elsevier,JOURNAL
+M173,Wolf Children,Mamoru Hosoda,MOVIE
+J255,The Lancet,Elsevier,JOURNAL
+B274,Never Go Back,Lee Child,BOOK
+M109,The Little Soldier,Jean-Luc Godard,MOVIE
+J302,PNAS,NAS,JOURNAL
+B236,The River We Remember,William Kent Krueger,BOOK
+J174,Engineering Analysis with Boundary Elements,Elsevier,JOURNAL
+M115,Weekend,Jean-Luc Godard,MOVIE
+J252,Journal of Neuroscience,SfN,JOURNAL
+B149,The Message in the Hollow Oak,Carolyn Keene,BOOK
+M244,Pierrot le Fou,Jean-Luc Godard,MOVIE
+J114,Joule,Elsevier,JOURNAL
+J146,Matter,Elsevier,JOURNAL
+J206,Information and Computation,Elsevier,JOURNAL
+M293,Maria,Pablo Larraín,MOVIE
+M129,Love Streams,John Cassavetes,MOVIE
+M102,Early Man,Nick Park,MOVIE
+J223,Computers & Structures,Elsevier,JOURNAL
+M237,The Big Heat,Fritz Lang,MOVIE
+J119,Surface and Coatings Technology,Elsevier,JOURNAL
+M210,Interstellar,Christopher Nolan,MOVIE
+B142,Awareness,Anthony de Mello,BOOK
+M167,Se7en,David Fincher,MOVIE
+B106,Awareness,Anthony de Mello,BOOK
+M203,Isle of Dogs,Wes Anderson,MOVIE
+M204,Ponyo,Hayao Miyazaki,MOVIE
+J336,Marine Policy,Elsevier,JOURNAL
+B281,The Diamond Eye,Kate Quinn,BOOK
+M310,Pom Poko,Isao Takahata,MOVIE
+J120,Postharvest Biology and Technology,Elsevier,JOURNAL
+J102,Cell Systems,Elsevier,JOURNAL
+J193,Journal of Immunology,AAI,JOURNAL
+B272,The Courting of Rowan Galen,J.R. Ward,BOOK
+M320,Mirai,Mamoru Hosoda,MOVIE
+B171,Tripwire,Lee Child,BOOK
+M394,Blitz,Steve McQueen,MOVIE
+B138,Echo Burning,Lee Child,BOOK
+M124,Oliver Twist,David Lean,MOVIE
+B177,The Fury,Alex Michaelides,BOOK
+J236,Journal of Power Sources,Elsevier,JOURNAL
+B105,Void Moon,Michael Connelly,BOOK
+M249,A Canterbury Tale,Michael Powell,MOVIE
+B145,Dead Mountain,Douglas Preston,BOOK
+M105,Scarlet Street,Fritz Lang,MOVIE
+M101,Throne of Blood,Akira Kurosawa,MOVIE
+B371,Blood Work,Michael Connelly,BOOK
+J100,Information & Management,Elsevier,JOURNAL
+J104,Patterns,Elsevier,JOURNAL
+M231,Voices of a Distant Star,Makoto Shinkai,MOVIE
+J118,Biotechnology Advances,Elsevier,JOURNAL
+B110,Trunk Music,Michael Connelly,BOOK
+J175,Diamond and Related Materials,Elsevier,JOURNAL
+J131,Food Research International,Elsevier,JOURNAL
+M107,A Woman is a Woman,Jean-Luc Godard,MOVIE
+B102,The Affair,Lee Child,BOOK
+J142,One Earth,Elsevier,JOURNAL
+B353,You Like It Darker,Stephen King,BOOK
+B167,61 Hours,Lee Child,BOOK
+J126,Signal Processing,Elsevier,JOURNAL
+J122,Food Packaging and Shelf Life,Elsevier,JOURNAL
+J105,Polymer Testing,Elsevier,JOURNAL
+M257,Fight Club,David Fincher,MOVIE
+B401,The #1 Lawyer,James Patterson,BOOK
+J137,Robotics and Autonomous Systems,Elsevier,JOURNAL
+M118,The Life and Death of Colonel Blimp,Michael Powell,MOVIE
+B104,The Hidden Window Mystery,Carolyn Keene,BOOK
+J165,Polymer Testing,Elsevier,JOURNAL
+J161,Trends in Endocrinology & Metabolism,Elsevier,JOURNAL
+J399,Gene,Elsevier,JOURNAL
+M133,Opening Night,John Cassavetes,MOVIE
+B107,Personal,Lee Child,BOOK
+B265,Triple Cross,James Patterson,BOOK
+B335,The Wild Side,Fern Michaels,BOOK
+M112,Alphaville,Jean-Luc Godard,MOVIE
+M307,American Psycho,Mary Harron,MOVIE
+J108,The Journal of Strategic Information Systems,Elsevier,JOURNAL
+M135,Septet: The Story of Hong Kong,Sammo Hung,MOVIE
+J256,Journal of Sound and Vibration,Elsevier,JOURNAL
+M273,Spider-Man: Into the Spider-Verse,Peter Ramsey,MOVIE
+M121,September 5,Tim Fehlbaum,MOVIE
+M178,The Small Back Room,Michael Powell,MOVIE
+B309,Malibu Rising,Taylor Jenkins Reid,BOOK
+J263,Angewandte Chemie,Wiley,JOURNAL
+M108,Hallow Road,Babak Anvari,MOVIE
+M122,Summertime,David Lean,MOVIE
+B173,A Calamity of Souls,David Baldacci,BOOK
+J287,Current Opinion in Microbiology,Elsevier,JOURNAL
+B270,Atomic Habits,James Clear,BOOK
+B143,The Song of the Bird,Anthony de Mello,BOOK
+B221,The Silent Patient,Alex Michaelides,BOOK
+J109,Patterns,Elsevier,JOURNAL
+B226,The Grey Wolf,Louise Penny,BOOK
+M155,8 1/2,Federico Fellini,MOVIE
+M106,The Assessment,Fleur Fortuné,MOVIE
+J148,Archives of Biochemistry and Biophysics,Elsevier,JOURNAL
+M100,Red Beard,Akira Kurosawa,MOVIE
+B178,Judgment Prey,John Sandford,BOOK
+B108,Sadhana,Anthony de Mello,BOOK
+B132,The Scarlet Slipper Mystery,Carolyn Keene,BOOK
+J392,The Journal of Steroid Biochemistry and Molecular Biology,Elsevier,JOURNAL
+J317,Renewable Energy,Elsevier,JOURNAL
+B237,The Way to Love,Anthony de Mello,BOOK
+M315,Kubo and the Two Strings,Travis Knight,MOVIE
+M275,Coco,Lee Unkrich,MOVIE
+B289,The Quest of the Missing Map,Carolyn Keene,BOOK
+B314,The Passenger,Cormac McCarthy,BOOK
+J169,Computers & Structures,Elsevier,JOURNAL
+B233,Sea of Tranquility,Emily St. John Mandel,BOOK
+B238,Lessons in Chemistry,Bonnie Garmus,BOOK
+J125,Library & Information Science Research,Elsevier,JOURNAL
+J138,Heliyon,Elsevier,JOURNAL
+B116,The Mystery at the Ski Jump,Carolyn Keene,BOOK
+B121,The Lincoln Lawyer,Michael Connelly,BOOK
+B114,The Black Echo,Michael Connelly,BOOK
+B131,The Secret of the Wooden Lady,Carolyn Keene,BOOK
+J116,LWT - Food Science and Technology,Elsevier,JOURNAL
+J127,Food Control,Elsevier,JOURNAL
+J178,Journal of Visual Communication and Image Representation,Elsevier,JOURNAL
+M379,Vertigo,Alfred Hitchcock,MOVIE
+B174,The Locked Room,Elly Griffiths,BOOK
+M134,Faces,John Cassavetes,MOVIE
+B269,Madly Deeply,Alan Rickman,BOOK
+M248,The Big Lebowski,Joel Coen,MOVIE
+M215,Double Indemnity,Billy Wilder,MOVIE
+M337,Paths of Glory,Stanley Kubrick,MOVIE
+B124,The Prayer of the Frog,Anthony de Mello,BOOK
+J337,Decision Support Systems,Elsevier,JOURNAL
+J204,Applied Surface Science,Elsevier,JOURNAL
+J144,European Journal of Operational Research,Elsevier,JOURNAL
+J389,Dyes and Pigments,Elsevier,JOURNAL
+M259,Joker,Todd Phillips,MOVIE
+B103,Sadhana,Anthony de Mello,BOOK
+M239,Taxi Driver,Martin Scorsese,MOVIE
+B246,Yellowface,R.F. Kuang,BOOK
+M117,The Tales of Hoffmann,Michael Powell,MOVIE
+J303,Clinical Infectious Diseases,OUP,JOURNAL
+B125,The Clue of the Leaning Chimney,Carolyn Keene,BOOK
+J110,Trends in Food Science & Technology,Elsevier,JOURNAL
+J130,Thin Solid Films,Elsevier,JOURNAL
+J398,Metabolic Engineering,Elsevier,JOURNAL
+B172,Worth Dying For,Lee Child,BOOK
+B197,The World and All That It Holds,Aleksandar Hemon,BOOK
+M313,Memento,Christopher Nolan,MOVIE
+B183,The Collector,Daniel Silva,BOOK
+M111,Flowervale Street,David Robert Mitchell,MOVIE
+J197,Molecular Cell,Elsevier,JOURNAL
+J208,Water Research,Elsevier,JOURNAL
+J133,Information Sciences,Elsevier,JOURNAL
+J355,Cancer Discovery,AACR,JOURNAL
+B126,The Reversal,Michael Connelly,BOOK
+M174,Gladiator,Ridley Scott,MOVIE
+B127,Seeker of Wisdom,Anthony de Mello,BOOK
+M266,Words Bubble Up Like Soda Pop,Kyōhei Ishiguro,MOVIE
+J296,Psychological Science,SAGE,JOURNAL
+B128,The Ghost of Blackwood Hall,Carolyn Keene,BOOK
+J254,Journal of Magnetism and Magnetic Materials,Elsevier,JOURNAL
+B264,Anxious People,Fredrik Backman,BOOK
+M119,Nickel Boys,RaMell Ross,MOVIE
+M164,Jules and Jim,François Truffaut,MOVIE
+J134,Physiology & Behavior,Elsevier,JOURNAL
+M110,Ikiru,Akira Kurosawa,MOVIE
+M147,Throne of Blood,Akira Kurosawa,MOVIE
+J232,Science,AAAS,JOURNAL
+J404,Speech Communication,Elsevier,JOURNAL
+M291,Shutter Island,Martin Scorsese,MOVIE
+B280,Hang the Moon,Jeannette Walls,BOOK
+B382,The Paris Apartment,Lucy Foley,BOOK
+M308,Lawrence of Arabia,David Lean,MOVIE
+M149,Yojimbo,Akira Kurosawa,MOVIE
+B129,Sadhana,Anthony de Mello,BOOK
+J349,Journal of Network and Computer Applications,Elsevier,JOURNAL
+M120,Odd Man Out,Carol Reed,MOVIE
+J103,Patterns,Elsevier,JOURNAL
+J275,Stem Cell Reports,Elsevier,JOURNAL
+M142,Nosferatu,F.W. Murnau,MOVIE
+J136,Trends in Cognitive Sciences,Elsevier,JOURNAL
+M232,The Revenant,Alejandro G. Iñárritu,MOVIE
+J401,Information Sciences,Elsevier,JOURNAL
+M352,Rashomon,Akira Kurosawa,MOVIE
+B137,Awareness,Anthony de Mello,BOOK
+J315,Surface and Coatings Technology,Elsevier,JOURNAL
+B218,Shrines of Gaiety,Kate Atkinson,BOOK
+M140,M,Fritz Lang,MOVIE
+J139,Journal of the Franklin Institute,Elsevier,JOURNAL
+J322,Trends in Ecology & Evolution,Elsevier,JOURNAL
+B287,Manuscript Found in Accra,Paulo Coelho,BOOK
+B308,Persuader,Lee Child,BOOK
+J111,Matter,Elsevier,JOURNAL
+B133,Walking on Water,Anthony de Mello,BOOK
+J141,Trends in Chemistry,Elsevier,JOURNAL
+M395,Ride Your Wave,Masaaki Yuasa,MOVIE
+B239,The Secret of Shadow Ranch,Carolyn Keene,BOOK
+M241,Blade Runner 2049,Denis Villeneuve,MOVIE
+M126,The Cat Returns,Hiroyuki Morita,MOVIE
+J276,Digital Signal Processing,Elsevier,JOURNAL
+J121,Computers & Education,Elsevier,JOURNAL
+J259,Neurocomputing,Elsevier,JOURNAL
+J140,Meat Science,Elsevier,JOURNAL
+M208,Goodfellas,Martin Scorsese,MOVIE
+J395,Composites Science and Technology,Elsevier,JOURNAL
+B187,Simply Lies,David Baldacci,BOOK
+B117,The Concrete Blonde,Michael Connelly,BOOK
+J143,Ultramicroscopy,Elsevier,JOURNAL
+M196,Stalker,Andrei Tarkovsky,MOVIE
+M236,Gone with the Wind,Victor Fleming,MOVIE
+M322,Millennium Actress,Satoshi Kon,MOVIE
+B113,The Clue of the Velvet Mask,Carolyn Keene,BOOK
+J221,Lock, Stock and Two Smoking Barrels,JOURNAL
+J145,Journal of Luminescence,Elsevier,JOURNAL
+J107,Journal of Academic Librarianship,Elsevier,JOURNAL
+M128,Shadows,John Cassavetes,MOVIE
+M132,The Seed of the Sacred Fig,Mohammad Rasoulof,MOVIE
+B139,The Law of Innocence,Michael Connelly,BOOK
+B193,Hello Beautiful,Ann Napolitano,BOOK
+B140,Without Fail,Lee Child,BOOK
+M345,Boy and the Heron,Hayao Miyazaki,MOVIE
+B192,The Rising Tide,Ann Cleeves,BOOK
+B135,The Burning Room,Michael Connelly,BOOK
+M139,The Last Front,Joan Chen,MOVIE
+B400,A Darkness More Than Night,Michael Connelly,BOOK
+J188,Hydrology,MDPI,JOURNAL
+M138,When Marnie Was There,Hiromasa Yonebayashi,MOVIE
+M179,Better Man,Michael Gracey,MOVIE
+M294,Rashomon,Akira Kurosawa,MOVIE
+J189,European Journal of Operational Research,Elsevier,JOURNAL
+M297,Lu Over the Wall,Masaaki Yuasa,MOVIE
+B191,The Secret of Red Gate Farm,Carolyn Keene,BOOK
+B301,The Last Kingdom,Bernard Cornwell,BOOK
+M198,Trainspotting,Danny Boyle,MOVIE
+J177,Artificial Intelligence in Medicine,Elsevier,JOURNAL
+J191,Trends in Microbiology,Elsevier,JOURNAL
+B168,Fire and Bones,Kathy Reichs,BOOK
+J192,Soil Biology and Biochemistry,Elsevier,JOURNAL
+M181,Gran Torino,Clint Eastwood,MOVIE
+J135,Structure,Elsevier,JOURNAL
+B101,The Haunted Showboat,Carolyn Keene,BOOK
+M182,Spirited Away,Hayao Miyazaki,MOVIE
+B194,Old Babes in the Wood,Margaret Atwood,BOOK
+B227,The Alchemist,Paulo Coelho,BOOK
+J128,Current Biology,Elsevier,JOURNAL
+J194,Engineering Applications of Artificial Intelligence,Elsevier,JOURNAL
+J279,Bioinformatics,Oxford University Press,JOURNAL
+M199,Oldboy,Park Chan-wook,MOVIE
+J101,Cell Systems,Elsevier,JOURNAL
+M183,The Wild Robot,Chris Sanders,MOVIE
+J361,International Journal of Food Microbiology,Elsevier,JOURNAL
+B195,I Have Some Questions for You,Rebecca Makkai,BOOK
+B160,Nancy's Mysterious Letter,Carolyn Keene,BOOK
+J195,Development,The Company of Biologists,JOURNAL
+M227,Unstoppable,William Goldenberg,MOVIE
+M160,Bicycle Thieves,Vittorio De Sica,MOVIE
+M226,Die Hard,John McTiernan,MOVIE
+M185,Solaris,Andrei Tarkovsky,MOVIE
+J198,Journal of the Mechanics and Physics of Solids,Elsevier,JOURNAL
+M186,North by Northwest,Alfred Hitchcock,MOVIE
+B286,The Light We Carry,Michelle Obama,BOOK
+B196,Maame,Jessica George,BOOK
+J348,Sustainable Cities and Society,Elsevier,JOURNAL
+M187,The Battle of the River Plate,Michael Powell,MOVIE
+J112,Vacuum,Elsevier,JOURNAL
+J246,Trends in Biochemical Sciences,Elsevier,JOURNAL
+J200,Journal of Quantitative Spectroscopy and Radiative Transfer,Elsevier,JOURNAL
+J186,Environmental Pollution,Elsevier,JOURNAL
+B170,The 6:20 Man,David Baldacci,BOOK
+J201,International Journal of Heat and Mass Transfer,Elsevier,JOURNAL
+J354,Pervasive and Mobile Computing,Elsevier,JOURNAL
+M127,Small Things Like These,Tim Mielants,MOVIE
+B220,The Familiar,Leigh Bardugo,BOOK
+B322,Galatea,Madeline Miller,BOOK
+B198,The Mystery of the Ivory Charm,Carolyn Keene,BOOK
+M375,Gladiator II,Ridley Scott,MOVIE
+J202,Plant Physiology,ASPB,JOURNAL
+B199,Verity,Colleen Hoover,BOOK
+M148,My Neighbors the Yamadas,Isao Takahata,MOVIE
+J168,Trends in Neurosciences,Elsevier,JOURNAL
+M191,The Cabinet of Dr. Caligari,Robert Wiene,MOVIE
+B200,The Winners,Fredrik Backman,BOOK
+B176,The Witch Tree Symbol,Carolyn Keene,BOOK
+B122,The Sentinel,Lee Child,BOOK
+M192,The Sixth Sense,M. Night Shyamalan,MOVIE
+J295,NeuroImage,Elsevier,JOURNAL
+J203,Structure,Elsevier,JOURNAL
+J342,International Journal of Solids and Structures,Elsevier,JOURNAL
+M168,Night on the Galactic Railroad,Gisaburō Sugii,MOVIE
+B204,Upgrade,Blake Crouch,BOOK
+M195,Ben-Hur,William Wyler,MOVIE
+J368,Reliability Engineering & System Safety,Elsevier,JOURNAL
+B109,The Ringmaster's Secret,Carolyn Keene,BOOK
+B252,The Overlook,Michael Connelly,BOOK
+M197,Umberto D.,Vittorio De Sica,MOVIE
+B247,Mind Games,Nora Roberts,BOOK
+J205,Neuro-Oncology,OUP,JOURNAL
+M383,Metropolis,Fritz Lang,MOVIE
+M146,Grave of the Fireflies,Isao Takahata,MOVIE
+J214,Molecular Genetics and Metabolism,Elsevier,JOURNAL
+B205,The Sanatorium,Sarah Pearse,BOOK
+J207,Applied Energy,Elsevier,JOURNAL
+J164,Computers and Chemical Engineering,Elsevier,JOURNAL
+J238,Patterns,Elsevier,JOURNAL
+B206,The Waiting,Michael Connelly,BOOK
+J253,Polymer,Elsevier,JOURNAL
+M327,Top Gun: Maverick,Joseph Kosinski,MOVIE
+M116,ParaNorman,Chris Butler,MOVIE
+B207,Never Go Back,Lee Child,BOOK
+M222,The Woman in the Window,Fritz Lang,MOVIE
+J260,Journal of Finance,Wiley,JOURNAL
+M200,Ford v Ferrari,James Mangold,MOVIE
+B208,Expiration Dates,Rebecca Serle,BOOK
+J220,Food Chemistry,Elsevier,JOURNAL
+B282,Project Hail Mary,Andy Weir,BOOK
+M202,Summer Wars,Mamoru Hosoda,MOVIE
+J187,Journal of Biotechnology,Elsevier,JOURNAL
+M189,A Space Odyssey,Stanley Kubrick,MOVIE
+J210,Gondwana Research,Elsevier,JOURNAL
+B209,The Hidden Staircase,Carolyn Keene,BOOK
+J222,Composites Part B,Elsevier,JOURNAL
+B100,Song of the Bird,Anthony de Mello,BOOK
+B210,Desert Star,Michael Connelly,BOOK
+J211,Progress in Materials Science,Elsevier,JOURNAL
+B213,Cloud Cuckoo Land,Anthony Doerr,BOOK
+J124,Neuron,Elsevier,JOURNAL
+M201,The Godfather,Francis Ford Coppola,MOVIE
+B235,Fairy Tale,Stephen King,BOOK
+M230,Scarface,Brian De Palma,MOVIE
+J212,Advances in Engineering Software,Elsevier,JOURNAL
+J351,Current Opinion in Food Science,Elsevier,JOURNAL
+B163,Passions in Death,J.D. Robb,BOOK
+J213,Remote Sensing of Environment,Elsevier,JOURNAL
+B214,Birnam Wood,Eleanor Catton,BOOK
+B268,A Wanted Man,Lee Child,BOOK
+M317,The Exorcist,William Friedkin,MOVIE
+M130,The Blue Gardenia,Fritz Lang,MOVIE
+B136,Fair Warning,Michael Connelly,BOOK
+J215,Ecology Letters,Wiley,JOURNAL
+J233,Gut,BMJ,JOURNAL
+J357,Physica B: Condensed Matter,Elsevier,JOURNAL
+M103,The Life of Chuck,Mike Flanagan,MOVIE
+M205,Nope,Jordan Peele,MOVIE
+M212,Inglourious Basterds,Quentin Tarantino,MOVIE
+B346,Stone Blind,Natalie Haynes,BOOK
+M207,Perfect Blue,Satoshi Kon,MOVIE
+J217,Scripta Materialia,Elsevier,JOURNAL
+B217,Reminders of Him,Colleen Hoover,BOOK
+M188,Fantastic Mr. Fox,Wes Anderson,MOVIE
+B215,The Clue in the Old Album,Carolyn Keene,BOOK
+J218,Mechatronics,Elsevier,JOURNAL
+M206,The Night of the Hunter,Charles Laughton,MOVIE
+B222,Homecoming,Kate Morton,BOOK
+B223,The Night Fire,Michael Connelly,BOOK
+B224,The Ink Black Heart,Robert Galbraith,BOOK
+J310,Analytical Chemistry,ACS,JOURNAL
+M305,On the Waterfront,Elia Kazan,MOVIE
+M193,Castle in the Sky,Hayao Miyazaki,MOVIE
+J225,Calphad,Elsevier,JOURNAL
+B259,The Bad Weather Friend,Dean Koontz,BOOK
+B141,The Dark Hours,Michael Connelly,BOOK
+M209,The Grand Budapest Hotel,Wes Anderson,MOVIE
+B225,The Haunted Showboat,Carolyn Keene,BOOK
+J129,Trends in Molecular Medicine,Elsevier,JOURNAL
+M211,Eternal Sunshine of the Spotless Mind,Michel Gondry,MOVIE
+M213,Stairway to Heaven,Michael Powell,MOVIE
+M277,The Red Shoes,Michael Powell,MOVIE
+J234,Journal of Non-Crystalline Solids,Elsevier,JOURNAL
+M214,The Prestige,Christopher Nolan,MOVIE
+J309,Chemosphere,Elsevier,JOURNAL
+B229,The Scarecrow,Michael Connelly,BOOK
+J300,Materials Science and Engineering: A,Elsevier,JOURNAL
+B231,Trust,Hernan Diaz,BOOK
+B154,The Hard Way,Lee Child,BOOK
+J227,Current Biology,Cell Press,JOURNAL
+B234,The Clue in the Diary,Carolyn Keene,BOOK
+M382,Maquia: When the Promised Flower Blooms,Mari Okada,MOVIE
+B255,The Exchange,John Grisham,BOOK
+M218,Django Unchained,Quentin Tarantino,MOVIE
+J308,Applied Physics Letters,AIP,JOURNAL
+J237,The Astrophysical Journal,IOP Publishing,JOURNAL
+M221,Whiplash,Damien Chazelle,MOVIE
+J228,Journal of Biological Chemistry,ASBMB,JOURNAL
+M229,The Lion King,Roger Allers,MOVIE
+B112,Echo Park,Michael Connelly,BOOK
+B165,Song of the Bird,Anthony de Mello,BOOK
+J229,Experimental Thermal and Fluid Science,Elsevier,JOURNAL
+M158,L'Avventura,Michelangelo Antonioni,MOVIE
+J230,Organic Electronics,Elsevier,JOURNAL
+J231,Nature Nanotechnology,Springer Nature,JOURNAL
+J209,Decision Support Systems,Elsevier,JOURNAL
+M223,Back to the Future,Robert Zemeckis,MOVIE
+B240,City of Bones,Michael Connelly,BOOK
+B379,A Knight of the Seven Kingdoms,George R.R. Martin,BOOK
+M224,Wallace & Gromit: The Curse of the Were-Rabbit,Nick Park,MOVIE
+M325,Barbie,Greta Gerwig,MOVIE
+B179,The Bungalow Mystery,Carolyn Keene,BOOK
+M225,Contempt,Jean-Luc Godard,MOVIE
+J224,Bioresource Technology,Elsevier,JOURNAL
+B241,The Maid,Nita Prose,BOOK
+M219,Jaws,Steven Spielberg,MOVIE
+B242,Pineapple Street,Jenny Jackson,BOOK
+B323,The Five-Star Weekend,Elin Hilderbrand,BOOK
+J196,Energy & Environmental Science,RSC,JOURNAL
+M228,Good Will Hunting,Gus Van Sant,MOVIE
+B118,The Narrows,Michael Connelly,BOOK
+J235,Current Biology,Elsevier,JOURNAL
+M366,The Killing of a Chinese Bookie,John Cassavetes,MOVIE
+J298,Genome Biology,Springer Nature,JOURNAL
+B243,The Poet,Michael Connelly,BOOK
+B391,The Maid,Nita Prose,BOOK
+B244,After That Night,Karin Slaughter,BOOK
+B245,Breaking the Silence,Alex Finlay,BOOK
+B329,The Edge,David Baldacci,BOOK
+M233,Parasite,Bong Joon-ho,MOVIE
+M265,The Place Promised in Our Early Days,Makoto Shinkai,MOVIE
+J132,Current Applied Physics,Elsevier,JOURNAL
+M234,Eyes Wide Shut,Stanley Kubrick,MOVIE
+M163,Nightbitch,Marielle Heller,MOVIE
+M254,The African Queen,John Huston,MOVIE
+J242,Expert Systems with Applications,Elsevier,JOURNAL
+J321,Current Opinion in Biotechnology,Elsevier,JOURNAL
+B202,The Covenant of Water,Abraham Verghese,BOOK
+M235,Life Is Beautiful,Roberto Benigni,MOVIE
+M243,The Truman Show,Peter Weir,MOVIE
+J199,Clinical Chemistry,OUP,JOURNAL
+B248,Klara and the Sun,Kazuo Ishiguro,BOOK
+J243,Journal of Terramechanics,Elsevier,JOURNAL
+B324,The Hunter,Tana French,BOOK
+J265,Journal of Physics and Chemistry of Solids,Elsevier,JOURNAL
+M238,Great Expectations,David Lean,MOVIE
+J182,Optics and Lasers in Engineering,Elsevier,JOURNAL
+B249,The Fifth Mountain,Paulo Coelho,BOOK
+J244,Computer Communications,Elsevier,JOURNAL
+B254,Our Missing Hearts, Celeste Ng,BOOK
+M341,Apocalypse Now,Francis Ford Coppola,MOVIE
+M302,Mad Max: Fury Road,George Miller,MOVIE
+M194,Howl's Moving Castle,Hayao Miyazaki,MOVIE
+J245,Neuron,Cell Press,JOURNAL
+M175,Psycho,Alfred Hitchcock,MOVIE
+B250,The Clue of the Tapping Heels,Carolyn Keene,BOOK
+B279,Hidden Pictures,Jason Rekulak,BOOK
+M269,Oppenheimer,Christopher Nolan,MOVIE
+B276,Framed,John Grisham,BOOK
+M240,Blade Runner,Ridley Scott,MOVIE
+B364,Tell Me Everything,Elizabeth Strout,BOOK
+B251,Circe,Madeline Miller,BOOK
+J370,Scripta Materialia,Elsevier,JOURNAL
+B348,Summers at the Saint,Mary Kay Andrews,BOOK
+J240,Learning and Instruction,Elsevier,JOURNAL
+B253,The Darkest Evening,Ann Cleeves,BOOK
+M242,The Matrix,Lana Wachowski,MOVIE
+M348,My Neighbor Totoro,Hayao Miyazaki,MOVIE
+J248,Small,Wiley,JOURNAL
+J250,Plant Cell,ASPB,JOURNAL
+J251,Cancer Cell,Elsevier,JOURNAL
+J181,Biomaterials,Elsevier,JOURNAL
+B256,The Way to Love,Anthony de Mello,BOOK
+M274,1917,Sam Mendes,MOVIE
+J173,Fluid Dynamics Research,Elsevier,JOURNAL
+B216,The Frozen River,Ariel Lawhon,BOOK
+B257,Camino Ghosts,John Grisham,BOOK
+B258,Holly,Stephen King,BOOK
+B260,The Cloisters,Katy Hays,BOOK
+B261,Victory City,Salman Rushdie,BOOK
+M141,The Blue Angel,Josef von Sternberg,MOVIE
+J258,Current Opinion in Structural Biology,Elsevier,JOURNAL
+J269,Patterns,Elsevier,JOURNAL
+J159,Experimental Cell Research,Elsevier,JOURNAL
+J257,Cell Reports,Cell Press,JOURNAL
+B263,The Scarecrow,Michael Connelly,BOOK
+J339,Robotics and Autonomous Systems,Elsevier,JOURNAL
+B336,The Little Liar,Mitch Albom,BOOK
+B288,The Ghost Orchid,Jonathan Kellerman,BOOK
+M247,Band of Outsiders,Jean-Luc Godard,MOVIE
+M250,Inception,Christopher Nolan,MOVIE
+M180,Uncut Gems,Josh Safdie,MOVIE
+J261,ID,name,JOURNAL
+M388,The Last Showgirl,Gia Coppola,MOVIE
+M251,Braveheart,Mel Gibson,MOVIE
+M246,Dune,Denis Villeneuve,MOVIE
+M252,Poor Things,Yorgos Lanthimos,MOVIE
+M253,The Seven Year Itch,Billy Wilder,MOVIE
+B266,The Brass Verdict,Michael Connelly,BOOK
+M261,The Shining,Stanley Kubrick,MOVIE
+J239,BioScience,OUP,JOURNAL
+B232,One Minute Wisdom,Anthony de Mello,BOOK
+B267,We Solve Murders,Richard Osman,BOOK
+M123,The Fallen Idol,Carol Reed,MOVIE
+J262,Advanced Materials,Wiley,JOURNAL
+M361,Deadpool & Wolverine,Shawn Levy,MOVIE
+M255,No Country for Old Men,Joel and Ethan Coen,MOVIE
+M314,The Girl Who Leapt Through Time,Mamoru Hosoda,MOVIE
+B271,Triangle,Danielle Steel,BOOK
+J264,Display,Elsevier,JOURNAL
+J266,Nano Letters,ACS,JOURNAL
+B380,The Murders before Christmas,Agatha Christie,BOOK
+J267,Current Opinion in Solid State and Materials Science,Elsevier,JOURNAL
+J268,Chest,Elsevier,JOURNAL
+B273,Bad Luck and Trouble,Lee Child,BOOK
+J270,New England Journal of Medicine,MMS,JOURNAL
+J388,International Journal of Project Management,Elsevier,JOURNAL
+J271,Trends in Immunology,Elsevier,JOURNAL
+B277,The Marriage Portrait,Maggie O'Farrell,BOOK
+M331,The Departed,Martin Scorsese,MOVIE
+J272,Neurobiology of Disease,Elsevier,JOURNAL
+J288,Theoretical Computer Science,Elsevier,JOURNAL
+M258,Seven Samurai,Akira Kurosawa,MOVIE
+J273,Monthly Notices of the Royal Astronomical Society,OUP,JOURNAL
+J274,Advanced Energy Materials,Wiley,JOURNAL
+M385,Coraline,Henry Selick,MOVIE
+M157,Cinema Paradiso,Giuseppe Tornatore,MOVIE
+M184,Yojimbo,Akira Kurosawa,MOVIE
+B278,The Whispering Statue,Carolyn Keene,BOOK
+B283,The Glassmaker,Tracy Chevalier,BOOK
+B285,The Boys from Biloxi,John Grisham,BOOK
+J277,Journal of Alloys and Compounds,Elsevier,JOURNAL
+M390,The Last Dangerous Man,Lasse Hallström,MOVIE
+M262,Pulp Fiction,Quentin Tarantino,MOVIE
+M264,Logan,James Mangold,MOVIE
+B290,Running Blind,Lee Child,BOOK
+J278,Fuel,Elsevier,JOURNAL
+M350,Peeping Tom,Michael Powell,MOVIE
+B284,One Shot,Lee Child,BOOK
+M267,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,MOVIE
+B219,Tomorrow and Tomorrow and Tomorrow,Gabrielle Zevin,BOOK
+J280,Immunity,Cell Press,JOURNAL
