@@ -1,4 +1,6 @@
-add admin
+add admin 
+need to implement persistance
+make it show top 10 media in borrowing menu
 while sys init need to set accNo var also
 
 showDashboard = show borrowed 
