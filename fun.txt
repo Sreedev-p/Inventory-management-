@@ -1,2 +1,5 @@
 add admin
 while sys init need to set accNo var also
+
+showDashboard = show borrowed 
+borrowNo = currBorrowed

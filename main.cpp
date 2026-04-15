@@ -3,250 +3,320 @@
 #include<fstream>
 #include<sstream>
 #include<unordered_map>
-#define FACULTY_LIMIT 5
-#define STUDENT_LIMIT 3
+#include<algorithm>
+#define MAX_F 5
+#define MAX_S 3
 using namespace std;
-int accNo=200;
-enum mediaType{BOOK,JOURNAL,MOVIE};
-enum userType{STUDENT,FACULTY,ADMIN};
-class media{
-    public:
-    string ID,name,authour;
-    mediaType type;
+enum mType{BOOK,JOURNAL,MOVIE};
+enum uType{STUDENT,FACULTY,ADMIN};
+string mtypeStr(mType t){
+    if(t==BOOK){
+        return "BOOK";
+    }
+    if(t==MOVIE){
+        return "MOVIE";
+    }
+    return "JOURNAL";
+}
+string uTypeStr(uType t){
+    if(t==STUDENT){
+        return "STUDENT";
+    }
+    if(t==FACULTY){
+        return "FACULTY";
+    }
+    return "ADMIN";
+}
+class item{
+public:
+    string id,name,author;
+    mType kind;
     bool available;
-    media(string ID,string name,string authour,string type){
-        this->ID=ID;
-        this->name=name;
-        this->authour=authour;
-        if(type =="BOOK")
-            this->type =BOOK;
-        if(type =="MOVIE")
-            this->type =MOVIE;
-        if(type =="JOURNAL")
-            this->type =JOURNAL;
+    item(string i,string n,string a,string t){
+        this->id=i;
+        this->name=n;
+        this->author=a;
+        if(t=="BOOK"){
+            kind=BOOK;
+        }else if(t=="MOVIE"){
+            kind=MOVIE;
+        }else{
+            kind=JOURNAL;
+        }
         available=true;
     }
-    media(string ID,string name,string authour){
-        this->ID=ID;
-        this->name=name;
-        this->authour=authour;
+    item(){
         available=true;
     }
-    media(){}
 };
-class Book:public media{
-    public:
-    Book(string ID,string name,string authour):media( ID, name, authour, BOOK){      
+class user{
+public:
+    string name,pass,id;
+    uType job;
+    int count;
+    vector<string> myList;
+    bool valid;
+    user(string i,string n,string p,uType j){
+        this->id=i;
+        this->name=n;
+        this->pass=p;
+        this->job=j;
+        this->count=0;
+        this->valid=true;
     }
+    virtual ~user(){}
+    virtual int borrow(item &obj)=0;
+    bool giveBack(item &obj){
+        auto it=find(myList.begin(),myList.end(),obj.id);
+        if(it!=myList.end()){
+            obj.available=true;
+            myList.erase(it);
+            count--;
+            return true;
+        }
+        return false;
+    }
+    virtual void showAll()=0;
 };
-class UserDetails{
-    protected:
-    string name,password,ID;
-    userType type;
-    int max;//no of books borrowed init 0
-    vector<string>borrowed;
-    public:
-    void assignID(){
-        ID =++accNo;
-    }
-    UserDetails(string ID,string name,string password,string type){
-        this->ID=ID;
-        this->name=name;
-        this->password=password;
-        if(type =="STUDENT")
-            this->type=STUDENT;
-        if(type =="FACULTY")
-            this->type=FACULTY;
-        if(type =="ADMIN")
-            this->type=ADMIN;
-        max=0;
-    }
-    UserDetails(string name,string pass){
-        this->name=name;
-        this->password=pass;
-        max=0;
-    }
-    UserDetails(string name){
-        this->name=name;
-        max=0;
-    }
-};
-class student:public UserDetails{
-    public:
-    student(string name,string password):UserDetails(name,password){
-        type=STUDENT;
-    }
-    student(string name):UserDetails(name){
-        type=STUDENT;
-    }
-    int borrowMedia(media &obj) {
+class student:public user{
+public:
+    student(string i,string n,string p):user(i,n,p,STUDENT){}
+    int borrow(item &obj) override{
         if(!obj.available){
             return -1;
         }
-        else if(max == STUDENT_LIMIT){
+        if(count>=MAX_S){
             return -2;
         }
-        else{
-            obj.available=false;
-            borrowed.push_back(obj.ID);
-            max++;
-            return 0;
-        }
+        obj.available=false;
+        myList.push_back(obj.id);
+        count++;
+        return 0;
     }
-    bool returnMedia(media &obj) {
-        int i=0;
-        for(string &s: borrowed){
-            if(s==obj.ID){
-                obj.available=true;
-                borrowed.erase(borrowed.begin()+i);
-                max--;
-                return true;
-            }
-            i++;//search  in borrowed for the book
-        }
-        return false;
-    }
-    void createAccount() {
-        cout<<"Enter Name: ";
-        cin.ignore();
-        getline(cin,name);
-        assignID();//left
-        cout<<"Congradulations You have succesfully created a new account"<<endl;
-        cout<<"Your new ID is: "<<ID<<endl;
-        cout<<"Set a password: ";
-        cin.ignore();
-        getline(cin,password);
-        cout<<"Thank you, you can now login to our system"<<endl;
-        type=STUDENT;
-        max =0;
-    }
-    bool login() {
-        string pass;
-        cout<<"Enter your Password";
-        cin.ignore();
-        getline(cin,pass);
-        if(pass == password)
-            return true;
-        return false;
-    }
-    void showMedia(){
-        for(string s: borrowed){
-            cout<<"->"<<s<<endl;
-        }
+    void showAll() override{
+        cout<<"\n[STUDENT] "<<name<<" | Borrowed: "<<count<<"/"<<MAX_S<<endl;
     }
 };
-class faculty:public UserDetails{
-    public:
-    faculty(string name,string password):UserDetails(name,password){
-        type=FACULTY;
-    }
-    faculty(string name):UserDetails(name){
-        type=FACULTY;
-    }
-    void showMedia(){
-        for(string s: borrowed){
-            cout<<"->"<<s<<endl;
-        }
-    }
-    int borrowMedia(media &obj) {
+class teacher:public user{
+public:
+    teacher(string i,string n,string p):user(i,n,p,FACULTY){}
+    int borrow(item &obj) override{
         if(!obj.available){
             return -1;
         }
-        else if(max == FACULTY_LIMIT){
+        if(count>=MAX_F){
             return -2;
         }
-        else{
-            obj.available=false;
-            borrowed.push_back(obj.ID);
-            max++;
-            return 0;
-        }
+        obj.available=false;
+        myList.push_back(obj.id);
+        count++;
+        return 0;
     }
-    bool returnMedia(media &obj) {
-        int i=0;
-        for(string &s: borrowed){
-            if(s==obj.ID){
-                obj.available=true;
-                borrowed.erase(borrowed.begin()+i);
-                max--;
-                return true;
-            }
-            i++;
-        }
-        return false;
-    }
-    void createAccount() {
-        cout<<"Enter Name: ";
-        cin.ignore();
-        getline(cin,name);
-        assignID();//left
-        cout<<"Congradulations You have succesfully created a new account"<<endl;
-        cout<<"Your new ID is: "<<ID<<endl;
-        cout<<"Set a password: ";
-        cin.ignore();
-        getline(cin,password);
-        cout<<"Thank you, you can now login to our system"<<endl;
-        type=FACULTY;
-        max =0;
-    }
-    bool login() {
-        string pass;
-        cout<<"Enter your Password";
-        cin.ignore();
-        getline(cin,pass);
-        if(pass == password)
-            return true;
-        return false;
+    void showAll() override{
+        cout<<"\n[FACULTY] "<<name<<" | Borrowed: "<<count<<"/"<<MAX_F<<endl;
     }
 };
-class admin:public UserDetails{
-    public:
-    admin(string name,string password):UserDetails(name,password){
-        type=FACULTY;
+class admin:public user{
+public:
+    admin(string i,string n,string p):user(i,n,p,ADMIN){}
+    int borrow(item &obj) override{
+        return -3;
     }
-    admin(string name):UserDetails(name){
-        type=FACULTY;
-    }
-    void addMedia(string ID,string name,string authour,mediaType T){
-
+    void showAll() override{
+        cout<<"\n[ADMIN] "<<name<<endl;
     }
 };
+void saveItem(unordered_map<string,item> &allItems){
+    ofstream f("media.txt",ios::trunc);
+    for(auto const& [key,val]:allItems){
+        f<<val.id<<","<<val.name<<","<<val.author<<","<<mtypeStr(val.kind)<<endl;
+    }
+    f.close();
+}
+void saveUsers(unordered_map<string,user*> &allUsers){
+    ofstream f("user.txt",ios::trunc);
+    for(auto const& [key,val]:allUsers){
+        f<<val->id<<","<<val->name<<","<<val->pass<<","<<uTypeStr(val->job)<<","<<(val->valid?"1":"0")<<","<<val->count;
+        for(const string& thing:val->myList){
+            f<<","<<thing;
+        }
+        f<<endl;
+    }
+    f.close();
+}
+void loadItems(unordered_map<string,item> &allItems){
+    ifstream f("media.txt");
+    string s;
+    while(getline(f,s)){
+        if(s.empty()){
+            continue;
+        }
+        stringstream ss(s);
+        string i,n,a,t;
+        getline(ss,i,',');getline(ss,n,',');getline(ss,a,',');getline(ss,t,',');
+        allItems[i]=item(i,n,a,t);
+    }
+    f.close();
+}
+void loadUsers(unordered_map<string,user*> &allUsers){
+    ifstream f("user.txt");
+    string s;
+    while(getline(f,s)){
+        if(s.empty()){
+            continue;
+        }
+        stringstream ss(s);
+        string i,n,p,t,stat,c;
+        getline(ss,i,',');getline(ss,n,',');getline(ss,p,',');
+        getline(ss,t,',');getline(ss,stat,',');getline(ss,c,',');
+        user* u;
+        if(t=="STUDENT"){
+            u=new student(i,n,p);
+        }else if(t=="FACULTY"){
+            u=new teacher(i,n,p);
+        }else{
+            u=new admin(i,n,p);
+        }
+        u->valid=(stat=="1");
+        int num=stoi(c);
+        for(int j=0;j<num;j++){
+            string borrowed;
+            getline(ss,borrowed,',');
+            u->myList.push_back(borrowed);
+            u->count++;
+        }
+        allUsers[i]=u;
+    }
+    f.close();
+}
 int main(){
-    unordered_map <string,media> media;
-    unordered_map <string,UserDetails> users;
-}
-void init(){}
-void loadUsers(unordered_map<string ,UserDetails> &map){
-    ifstream file("user.txt");
-    string line;
-    while(getline(file,line)){
-        if(line.empty())
-            continue;
-        string IDStr,nameStr,pass,type;
-        stringstream stream(line);//convert the got line into a stream so that we can take it like a cin input
-        getline(stream,IDStr,',');//reads all csv to each variable
-        getline(stream,nameStr,',');
-        getline(stream,pass,',');
-        getline(stream,type,',');
-        UserDetails temp(IDStr,nameStr,pass,type);//create a temp media object to feed the hashMap
-        map[IDStr]=temp;
+    unordered_map<string,item> media;
+    unordered_map<string,user*> users;
+    loadItems(media);
+    loadUsers(users);
+    for(auto const& [uid,u]:users){
+        for(string& bid:u->myList){
+            if(media.count(bid)){
+                media[bid].available=false;
+            }
+        }
     }
-    file.close();
-}
-void loadMedia(unordered_map<string ,media> &map){
-    ifstream file("media.txt");
-    string line;
-    while(getline(file,line)){
-        if(line.empty())
-            continue;
-        string IDStr,nameStr,authourStr,type;
-        stringstream stream(line);//convert the got line into a stream so that we can take it like a cin input
-        getline(stream,IDStr,',');//reads all csv to each variable
-        getline(stream,nameStr,',');
-        getline(stream,authourStr,',');
-        getline(stream,type,',');
-        media temp(IDStr,nameStr,authourStr,type);//create a temp media object to feed the hashMap
-        map[IDStr]=temp;
+    while(true){
+        string myId,myPass;
+        cout<<"\n-----------------MENU------------------";
+        cout<<"\nID: ";cin>>myId;
+        cout<<"Password: ";cin>>myPass;
+        if(users.count(myId)&&users[myId]->pass==myPass){
+            user* u=users[myId];
+            if(!u->valid){
+                cout<<"Account Revoked!\n";
+                continue;
+            }
+            bool go=true;
+            while(go){
+                u->showAll();
+                if(u->job==ADMIN){
+                    cout<<"1.Add  2.Remove  3.Revoke  4.List  5.Logout 6.Exit: ";
+                    int choice;
+                    cin>>choice;
+                    if(choice==1){
+                        string ni,nn,na,nt;
+                        cout<<"ID: ";
+                        cin>>ni;
+                        cout<<"Title: ";
+                        cin.ignore();
+                        getline(cin,nn);
+                        cout<<"Author: ";
+                        getline(cin,na);
+                        cout<<"Type: ";cin>>nt;
+                        media[ni]=item(ni,nn,na,nt);
+                        saveItem(media);
+                    }else if(choice==2){
+                        string ni;cout<<"ID to remove: ";cin>>ni;
+                        media.erase(ni);
+                        saveItem(media);
+                    }else if(choice==3){
+                        string ui;cout<<"User ID to revoke: ";cin>>ui;
+                        if(users.count(ui)){
+                            users[ui]->valid=false;
+                            saveUsers(users);
+                        }
+                    }else if(choice==4){
+                        for(auto const& [k,v]:media){
+                            cout<<k<<" | "<<v.name<<endl;
+                        }
+                    }else if(choice==5){
+                        go=false;
+                    }
+                    else if(choice==6){
+                        return 0;
+                    }
+                }else{
+                    cout<<"1.Borrow  2.Return  3.View  4.Logout: ";
+                    int choice;cin>>choice;
+                    if(choice==1){
+                        vector<item*> temp;
+                        for(auto& pair:media){
+                            temp.push_back(&pair.second);
+                        }
+                        int total=temp.size();
+                        int current=0;
+                        bool browse=true;
+                        while(browse){
+                            cout<<"\n--- Page "<<(current/10)+1<<" ---\n";
+                            for(int i=current;i<current+10&&i<total;i++){
+                                cout<<"["<<temp[i]->id<<"] "<<temp[i]->name<<(temp[i]->available?" (Available)":" (Borrowed)")<<endl;
+                            }
+                            cout<<"\n(N) Next 10 | (B) Borrow by ID | (Q) Back: ";
+                            char opt;
+                            cin>>opt;
+                            if((opt=='n'||opt=='N')&&current+10<total){
+                                current+=10;
+                            }else if(opt=='b'||opt=='B'){
+                                string mi;
+                                cout<<"Enter ID: ";
+                                cin>>mi;
+                                if(media.count(mi)){
+                                    int res=u->borrow(media[mi]);
+                                    if(res==0){
+                                        saveUsers(users);
+                                        saveItem(media);
+                                        cout<<"Borrowed Succesffully!\n";
+                                    }else if(res== -1){
+                                        cout<<"Cannot borrow (media Unavailable)!\n";
+                                    }
+                                    else if(res == -2){
+                                        cout<<"Cannot borrow (Limit exeeded)"<<endl;
+                                    }
+                                }
+                                browse=false;
+                            }else{
+                                browse=false;
+                            }
+                        }
+                    }else if(choice==2){
+                        string mi;
+                        cout<<"Media ID: ";
+                        cin>>mi;
+                        if(media.count(mi)){
+                            if(u->giveBack(media[mi])){
+                                saveUsers(users);
+                                saveItem(media);
+                                cout<<"Returned Successfully!\n";
+                            }
+                        }
+                    }else if(choice==3){
+                        for(string b:u->myList){
+                            cout<<" - "<<b<<" ("<<media[b].name<<")\n";
+                        }
+                    }else if(choice==4){
+                        go=false;
+                    }
+                }
+            }
+        }else{
+            cout<<"Invalid Credentials!\n";
+        }
     }
-    file.close();
+    return 0;
 }

@@ -52,11 +52,6 @@ public:
         available=true;
     }
 };
-
-class person;
-void saveUsers(unordered_map<string,person*> &allUsers);
-void saveItems(unordered_map<string,item> &allItems);
-
 class user{
 public:
     string name,pass,id;
@@ -246,11 +241,11 @@ int main(){
                         getline(cin,na);
                         cout<<"Type: ";cin>>nt;
                         media[ni]=item(ni,nn,na,nt);
-                        saveItems(media);
+                        saveItem(media);
                     }else if(choice==2){
                         string ni;cout<<"ID to remove: ";cin>>ni;
                         media.erase(ni);
-                        saveItems(media);
+                        saveItem(media);
                     }else if(choice==3){
                         string ui;cout<<"User ID to revoke: ";cin>>ui;
                         if(users.count(ui)){
@@ -296,7 +291,7 @@ int main(){
                                     int res=u->borrow(media[mi]);
                                     if(res==0){
                                         saveUsers(users);
-                                        saveItems(media);
+                                        saveItem(media);
                                         cout<<"Borrowed Succesffully!\n";
                                     }else if(res== -1){
                                         cout<<"Cannot borrow (media Unavailable)!\n";
@@ -317,7 +312,7 @@ int main(){
                         if(media.count(mi)){
                             if(u->giveBack(media[mi])){
                                 saveUsers(users);
-                                saveItems(media);
+                                saveItem(media);
                                 cout<<"Returned Successfully!\n";
                             }
                         }
